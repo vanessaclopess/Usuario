@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Usuario.Infrastructure.Interfaces
 {
-    interface IRepositoryAsync
+    public interface IRepositoryAsync<T>
     {
+        Task Add(T entity);
+
+        Task<List<T>> Get();
+
+        Task<T> GetByGuid(Guid id);
     }
 }

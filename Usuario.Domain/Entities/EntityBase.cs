@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Usuario.Domain.Entities
 {
-    class EntityBase
+    public class EntityBase
     {
+        public Guid Id { get; set; }
+
+        public EntityBase()
+        {
+            Id = Guid.NewGuid();
+        }
     }
 }

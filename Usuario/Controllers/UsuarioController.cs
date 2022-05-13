@@ -1,10 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Usuario.Application.Interfaces;
+using Usuario.Dto;
 
 namespace Usuario.Controllers
 {
@@ -38,5 +36,14 @@ namespace Usuario.Controllers
 
             return Ok();
         }
+
+        //[HttpDelete]
+        //public IActionResult Delete([FromBody] InputUsuarioDto usuarioDto)
+        //{
+        //    _usuarioService.Delete(usuarioDto.Login, usuarioDto.Password);
+
+        //    return Ok();
+        //}
+
     }
 }
