@@ -1,0 +1,17 @@
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\bin\Debug\net5.0\Usuario.Application.deps.json
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\bin\Debug\net5.0\Usuario.Application.dll
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\bin\Debug\net5.0\ref\Usuario.Application.dll
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\bin\Debug\net5.0\Usuario.Application.pdb
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\bin\Debug\net5.0\Usuario.Domain.dll
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\bin\Debug\net5.0\Usuario.Infrastructure.dll
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\bin\Debug\net5.0\Usuario.Infrastructure.pdb
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\bin\Debug\net5.0\Usuario.Domain.pdb
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\obj\Debug\net5.0\Usuario.Application.csproj.AssemblyReference.cache
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\obj\Debug\net5.0\Usuario.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\obj\Debug\net5.0\Usuario.Application.AssemblyInfoInputs.cache
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\obj\Debug\net5.0\Usuario.Application.AssemblyInfo.cs
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\obj\Debug\net5.0\Usuario.Application.csproj.CoreCompileInputs.cache
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\obj\Debug\net5.0\Usuario.Application.csproj.CopyComplete
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\obj\Debug\net5.0\Usuario.Application.dll
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\obj\Debug\net5.0\ref\Usuario.Application.dll
+C:\Users\vanessa.lopes\source\repos\Usuario\teste\obj\Debug\net5.0\Usuario.Application.pdb

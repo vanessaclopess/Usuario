@@ -7,7 +7,7 @@ namespace Usuario.Application.Interfaces
 {
     public interface IUsuarioService
     {
-        void Add(string login, string password);
+        void Add(string login, string nome, string endereco, string password);
 
         Task<List<UsuarioDto>> Get();
 

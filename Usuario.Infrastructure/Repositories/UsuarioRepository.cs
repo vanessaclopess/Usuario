@@ -9,10 +9,10 @@ using Usuario.Infrastructure.Interfaces;
 
 namespace Usuario.Infrastructure.Repositories
 {
-    //public class UsuarioRepository : RepositoryBase<UsuarioEntity>, IUsuarioRepository
-    //{
-    //    public UsuarioRepository(UsuarioContext context) : base(context)
-    //    {
-    //    }
-    //}
+    public class UsuarioRepository : RepositoryBase<UsuarioEntity>, IUsuarioRepository
+    {
+        public UsuarioRepository(UsuarioContext context) : base(context)
+        {
+        }
+    }
 }

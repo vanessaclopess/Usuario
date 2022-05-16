@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "k3ajrxY7Kr0xxNkWzg2NpZvtNmS/QrrH5nne3BZ/jgvbqtCQDGkKExjF8Z0I4wccMm/2pyQzBqvkOQ4R7v6fBw==",
+  "dgSpecHash": "UA3vLivJlowtTBVjQEc4Ru9nKXGUS3Orrp2Z9Z3pTGLXxly0hGp7OTrEYeXgpoR9/hoQd0nWEozKzBL8F2Watw==",
   "success": true,
   "projectFilePath": "C:\\Users\\vanessa.lopes\\source\\repos\\Usuario\\Usuario.Infrastructure\\Usuario.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\vanessa.lopes\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.17\\microsoft.entityframeworkcore.relational.5.0.17.nupkg.sha512",
     "C:\\Users\\vanessa.lopes\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.17\\microsoft.entityframeworkcore.sqlite.5.0.17.nupkg.sha512",
     "C:\\Users\\vanessa.lopes\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.17\\microsoft.entityframeworkcore.sqlite.core.5.0.17.nupkg.sha512",
+    "C:\\Users\\vanessa.lopes\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.17\\microsoft.entityframeworkcore.tools.5.0.17.nupkg.sha512",
     "C:\\Users\\vanessa.lopes\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\vanessa.lopes\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\vanessa.lopes\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

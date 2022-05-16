@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace Usuario.Domain.Entities
 {
-    public class UsuarioEntity
+    public class UsuarioEntity : EntityBase
     {
         public string Login { get; set; }
-
-        public string Telefone { get; set; }
 
         public string Nome { get; set; }
 
@@ -18,13 +16,10 @@ namespace Usuario.Domain.Entities
 
         public string Password { get; set; }
 
-        public Guid Id { get; set; }
-
-        public UsuarioEntity(string login, string telefone, string nome, string endereco, string password)
+        public UsuarioEntity(string login, string nome, string endereco, string password)
         {
             Login = login;
-            Password = password;
-            Telefone = telefone;
+            Password = password;      
             Nome = nome;
             Endereco = endereco;
 

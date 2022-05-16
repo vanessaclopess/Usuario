@@ -32,18 +32,10 @@ namespace Usuario.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] InputUsuarioDto usuarioDto)
         {
-            _usuarioService.Add(usuarioDto.Login, usuarioDto.Password);
+            _usuarioService.Add(usuarioDto.Login, usuarioDto.Nome, usuarioDto.Endereco, usuarioDto.Password);
 
             return Ok();
         }
-
-        //[HttpDelete]
-        //public IActionResult Delete([FromBody] InputUsuarioDto usuarioDto)
-        //{
-        //    _usuarioService.Delete(usuarioDto.Login, usuarioDto.Password);
-
-        //    return Ok();
-        //}
 
     }
 }
